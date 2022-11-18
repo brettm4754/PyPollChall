@@ -4,8 +4,8 @@
   This Election Audit mainly serves as a way to take a deeper look into how the results of an election were reached, looking at many of the differen breakdowns of different counties as well as each individual candidate's vote percentage. 
 
 **Election Audit Results**
-  -Total Votes: 369,711
-  -County Votes:
+  -Total Votes: 369,711/n
+  -County Votes:/n
     -Jefferson: 10.5% (38,855)
     -Denver: 82.8% (306,055)
     -Arapahoe: 6.7% (24,801)
